@@ -1,6 +1,5 @@
 ---
 layout: default
-permalink: /projects/
+title: Home
 ---
-
-### **test**
+<h1>{{ "Hello World!" | downcase }}</h1>
