@@ -7,7 +7,7 @@ highlighter: rouge
 markdown: kramdown
 disqus: dbyll
 google_analytics: dbyll
-title: 
+title: dbyll
 
 defaults:
   -
@@ -19,11 +19,9 @@ defaults:
 description: Stylish Jekyll Theme
 author:
   name: dbyll
-  email: dbyll@ismaildemirbilek.com
-  github: dbtek
-  twitter: dbtek
-  pinterest: asd123
-  linkedin: asd123
+  email: fredifqh@gmail.com
+  github: frefifqh
+  twitter: Fredifqh
   bio: Your stylish, minimalist theme!
   email_md5: 726351295ec82e145928582f595aa3aa
 
