@@ -7,7 +7,7 @@ highlighter: rouge
 markdown: kramdown
 disqus: dbyll
 google_analytics: dbyll
-title: Fredi Quispe H.
+title: dbyll
 
 defaults:
   -
@@ -19,9 +19,13 @@ defaults:
 description: Stylish Jekyll Theme
 author:
   name: dbyll
-  email: fredifqh@gmail.com
-  github: frefifqh
-  twitter: Fredifqh
+  email: dbyll@ismaildemirbilek.com
+  github: dbtek
+  twitter: dbtek
+  pinterest: asd123
+  linkedin: asd123
+  bio: Your stylish, minimalist theme!
+  email_md5: 726351295ec82e145928582f595aa3aa
 
 rss_path: feed.xml
 categories_path: categories.html
