@@ -14,7 +14,7 @@ defaults:
     scope:
       path: "" # empty string for all files
     values:
-      title: Fredi Quispe H.
+      title: Fredi Quispe H. Blog
 
 description: Stylish Jekyll Theme
 author:
